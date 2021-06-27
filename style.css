@@ -1,0 +1,29 @@
+body
+{
+    color: tomato;
+    background-image: url("1_FetmN1edUe0iYtWhyRtTVw.gif");
+    background-size: cover;
+background: linear-gradient(#c4f5d1 -0%, #1dcc4b 100%);
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color:blue;
+} 
+
+#camera
+{
+    border: 2px dashed blueviolet;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_names
+{
+    color: chocolate;
+}
